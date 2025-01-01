@@ -10,13 +10,15 @@ Projenin amacı, hasta kayıt süreçlerini hızlandırmak, bekleme sürelerini 
 Bu proje başlatma belgesi, hasta akış optimizasyonu yazılım projesinin başarılı bir şekilde yönetilmesi ve tamamlanması için gereken temel bilgileri içermektedir.
 - Projenin kapsamı, hedefleri ve teslimatları detaylı bir şekilde tanımlandı.
 - Anahtar görevler belirlendi.
-  [Project Chapter Document](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/09a747160e43057f37c3ed7b14554549671b3cf3/Project_chapter.docx)
+ [Project Chapter Document](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/09a747160e43057f37c3ed7b14554549671b3cf3/Project_chapter.docx)
 
 ### 2.Proje Zaman Çizelgesi
 Proje Zaman Çizelgesi, iş kırılım yapısı (WBS) ve kaynaklara göre **Gantt şeması** Excel üzerinde uygun formüllerle oluşturulmuştur. Aşağıdaki unsurlar içermektedir:
 - **Gantt Şeması**: Her bir görev ve alt görev için başlangıç ve bitiş tarihleri, görevlerin süreleri ve kaynak atamaları.
 - **İş Kırılım Yapısı (WBS)**: Görevlerin hiyerarşik bir yapıda düzenlenmesi ve sorumlulukların belirlenmesi.
 - **Kaynak Yönetimi**: Görevler için belirlenen kaynakların (yazılım geliştiriciler, test mühendisleri, eğitim uzmanları vb.) tahsisi.
+  [Project Management Timeline, Gantt Chart](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/238affe5b8b790e7bd3824a90f6d02653e4dade9/Proje%20Yönetimi%20Zaman%20Çizelgesi%2C%20Gantt.xlsx)
+
   
 ### 3. Kritik Yol Yöntemi (CPM)
 - Kritik görevler belirlendi ve proje zaman çizelgesi optimize edildi.
