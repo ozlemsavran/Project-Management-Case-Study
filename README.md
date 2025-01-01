@@ -10,7 +10,8 @@ Projenin amacı, hasta kayıt süreçlerini hızlandırmak, bekleme sürelerini 
 Bu proje başlatma belgesi, hasta akış optimizasyonu yazılım projesinin başarılı bir şekilde yönetilmesi ve tamamlanması için gereken temel bilgileri içermektedir.
 - Projenin kapsamı, hedefleri ve teslimatları detaylı bir şekilde tanımlandı.
 - Anahtar görevler belirlendi.
-  
+  [Project Chapter Document](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/09a747160e43057f37c3ed7b14554549671b3cf3/Project_chapter.docx)
+
 ### 2.Proje Zaman Çizelgesi
 Proje Zaman Çizelgesi, iş kırılım yapısı (WBS) ve kaynaklara göre **Gantt şeması** Excel üzerinde uygun formüllerle oluşturulmuştur. Aşağıdaki unsurlar içermektedir:
 - **Gantt Şeması**: Her bir görev ve alt görev için başlangıç ve bitiş tarihleri, görevlerin süreleri ve kaynak atamaları.
