@@ -18,6 +18,8 @@ Proje Zaman Çizelgesi, iş kırılım yapısı (WBS) ve kaynaklara göre **Gant
 - **İş Kırılım Yapısı (WBS)**: Görevlerin hiyerarşik bir yapıda düzenlenmesi ve sorumlulukların belirlenmesi.
 - **Kaynak Yönetimi**: Görevler için belirlenen kaynakların (yazılım geliştiriciler, test mühendisleri, eğitim uzmanları vb.) tahsisi.
   [Project Management Timeline, Gantt Chart](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/238affe5b8b790e7bd3824a90f6d02653e4dade9/Proje%20Yönetimi%20Zaman%20Çizelgesi%2C%20Gantt.xlsx)
+  
+  ![Gantt Chart](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/1d636930798d2fa0ffd949d549afa4e62dac8e68/Gantt%20Chart.png)
 
   
 ### 3. Kritik Yol Yöntemi (CPM)
