@@ -29,7 +29,7 @@ Proje Zaman Çizelgesi, iş kırılım yapısı (WBS) ve kaynaklara göre **Gant
   
 ### 4. Risk Yönetim Planı
 Bu Risk Yönetim Planı, hasta akış optimizasyonu yazılım projesinin başarılı bir şekilde tamamlanabilmesi için karşılaşılabilecek potansiyel riskleri belirlemekte ve bu risklere karşı alınması gereken önlemleri tanımlamaktadır. Riskler, **Probability-Impact Matrix** (Olasılık-Etkisi Matrisi) kullanılarak değerlendirilmiş ve önceliklendirilmiştir.
-
+[Project Risk Plan](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/8cfb3c864b66ea65f1683daa6dc8e42fbd8f5970/Proje%20Risk%20Plan%C4%B1.xlsx)
 #### Risklerin Tanımlanması
 Proje boyunca karşılaşılabilecek başlıca riskler aşağıdaki gibi sınıflandırılmıştır:
 - **Teknik Riskler**: Yazılım geliştirme, entegrasyon ve test süreçlerinde karşılaşılan sorunlar.
