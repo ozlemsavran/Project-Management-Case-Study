@@ -49,3 +49,4 @@ Değişiklik yönetim planı, projedeki değişiklik taleplerinin tanımlanması
 
 ### 8. Proje Kapanış Dosyası
 Project Close-Out, projenin tüm hedeflerinin tamamlandığının ve teslimatların kabul edildiğinin onaylandığı son adımdır. Bu aşamada, proje belgeleri tamamlanır, tüm paydaşlarla son değerlendirmeler yapılır ve proje sonuçları raporlanır.
+[Project Close-out](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/9a700ee4780ed58c6b7dd0f35913e5376da5d4e9/PROJECT%20CLOSE-Out.docx)
