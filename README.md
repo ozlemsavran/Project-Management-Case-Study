@@ -39,7 +39,7 @@ Proje boyunca karşılaşılabilecek başlıca riskler aşağıdaki gibi sınıf
 
 ### 5. Paydaş Yönetimi
 Proje paydaşlarının belirlenmesi, analiz edilmesi ve iletişim stratejilerinin oluşturulması amacıyla Excel tablosu hazırlanmıştır. Bu tabloda projeye dahil olan tüm paydaşlar tanımlanarak her bir paydaşın ilgisi, etkisi ve ihtiyaçları belirlenmiştir. Ayrıca, her paydaş için iletişim yöntemleri, sıklığı ve yanıt süreleri de belirlenerek projenin tüm paydaşlarla verimli bir şekilde yönetilmesi sağlanmıştır.
-
+[Stakeholder Register](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/96dc15b2958d51bb247a342998226e83f7d0cfaf/Stakeholder%20Register.xlsx)
 ### 6. Kalite Yönetim Planı
 Proje Kalite Planı, yazılım geliştirme sürecindeki kalite standartlarını sağlamak ve proje teslimatlarını belirli kalite seviyelerine uygun hale getirmek amacıyla hazırlanmıştır. Plan, kalite gereksinimleri, kontrol süreçleri ve performans metriklerini içerir.
 
