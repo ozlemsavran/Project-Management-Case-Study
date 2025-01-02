@@ -42,6 +42,7 @@ Proje paydaşlarının belirlenmesi, analiz edilmesi ve iletişim stratejilerini
 [Stakeholder Register](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/96dc15b2958d51bb247a342998226e83f7d0cfaf/Stakeholder%20Register.xlsx)
 ### 6. Kalite Yönetim Planı
 Proje Kalite Planı, yazılım geliştirme sürecindeki kalite standartlarını sağlamak ve proje teslimatlarını belirli kalite seviyelerine uygun hale getirmek amacıyla hazırlanmıştır. Plan, kalite gereksinimleri, kontrol süreçleri ve performans metriklerini içerir.
+[Quality Management Plan](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/73d59cd979a30631e31c5bd12bcbf39d7aa9376b/QUALITY%20MANAGEMENT%20PLAN.docx)
 
 ### 7. Project Close-out
 Project Close-Out, projenin tüm hedeflerinin tamamlandığının ve teslimatların kabul edildiğinin onaylandığı son adımdır. Bu aşamada, proje belgeleri tamamlanır, tüm paydaşlarla son değerlendirmeler yapılır ve proje sonuçları raporlanır.
