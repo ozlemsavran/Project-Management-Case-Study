@@ -46,6 +46,7 @@ Proje Kalite Planı, yazılım geliştirme sürecindeki kalite standartlarını 
 
 ### 7. Proje Değişiklik Yönetim Planı
 Değişiklik yönetim planı, projedeki değişiklik taleplerinin tanımlanması, değerlendirilmesi, onaylanması ve uygulanması için bir süreç planıdır. 
+[Project Change Management Plan](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/b05ee8dd94dd9e0962b5396bc494ee30bfe98c65/CHANGE%20MANAGEMENT%20PLAN.docx)
 
 ### 8. Proje Kapanış Dosyası
 Project Close-Out, projenin tüm hedeflerinin tamamlandığının ve teslimatların kabul edildiğinin onaylandığı son adımdır. Bu aşamada, proje belgeleri tamamlanır, tüm paydaşlarla son değerlendirmeler yapılır ve proje sonuçları raporlanır.
