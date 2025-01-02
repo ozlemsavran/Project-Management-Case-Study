@@ -25,6 +25,7 @@ Proje Zaman Çizelgesi, iş kırılım yapısı (WBS) ve kaynaklara göre **Gant
 ### 3. Kritik Yol Yöntemi (CPM)
 - Kritik görevler belirlendi ve proje zaman çizelgesi optimize edildi.
 - CPM, olası gecikmeleri ve bunların teslim tarihlerine etkisini analiz etmek için kullanıldı.
+  [Critical Path Method](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/90f8de25b868a1d78c28442d0a6100b618dbccf8/Kritik%20Yol%20Methodu.docx)
   
 ### 4. Risk Yönetim Planı
 Bu Risk Yönetim Planı, hasta akış optimizasyonu yazılım projesinin başarılı bir şekilde tamamlanabilmesi için karşılaşılabilecek potansiyel riskleri belirlemekte ve bu risklere karşı alınması gereken önlemleri tanımlamaktadır. Riskler, **Probability-Impact Matrix** (Olasılık-Etkisi Matrisi) kullanılarak değerlendirilmiş ve önceliklendirilmiştir.
