@@ -44,5 +44,8 @@ Proje paydaşlarının belirlenmesi, analiz edilmesi ve iletişim stratejilerini
 Proje Kalite Planı, yazılım geliştirme sürecindeki kalite standartlarını sağlamak ve proje teslimatlarını belirli kalite seviyelerine uygun hale getirmek amacıyla hazırlanmıştır. Plan, kalite gereksinimleri, kontrol süreçleri ve performans metriklerini içerir.
 [Quality Management Plan](https://github.com/ozlemsavran/Project-Management-Case-Study/blob/73d59cd979a30631e31c5bd12bcbf39d7aa9376b/QUALITY%20MANAGEMENT%20PLAN.docx)
 
-### 7. Project Close-out
+### 7. Proje Değişiklik Yönetim Planı
+Değişiklik yönetim planı, projedeki değişiklik taleplerinin tanımlanması, değerlendirilmesi, onaylanması ve uygulanması için bir süreç planıdır. 
+
+### 8. Proje Kapanış Dosyası
 Project Close-Out, projenin tüm hedeflerinin tamamlandığının ve teslimatların kabul edildiğinin onaylandığı son adımdır. Bu aşamada, proje belgeleri tamamlanır, tüm paydaşlarla son değerlendirmeler yapılır ve proje sonuçları raporlanır.
